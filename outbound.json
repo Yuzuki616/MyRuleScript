@@ -1,0 +1,18 @@
+[
+  {
+    "tag":"unlock",
+    "protocol":"shadowsocks",
+    "settings":{
+      "servers":[{
+        "address": "114.514.114.514",
+        "port": 114514,
+        "password": "******",
+        "method": "aes-256-gcm"
+      }]
+    }
+  },
+  {
+    "protocol": "blackhole",
+    "tag": "block"
+  }
+]
