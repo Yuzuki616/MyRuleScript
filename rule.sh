@@ -18,4 +18,3 @@ sed -i 's?#\ /etc/XrayR/route.json?/etc/V2bX/route.json?' /etc/V2bX/config.yml
 sed -i 's?#\ /etc/XrayR/custom_outbound.json?/etc/V2bX/custom_outbound.json?' /etc/V2bX/config.yml
 wget https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geoip.dat -O /etc/V2bX/geoip.dat
 wget https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat -O /etc/V2bX/geosite.dat
-V2bX restart

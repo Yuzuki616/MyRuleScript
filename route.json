@@ -14,6 +14,11 @@
         "bittorrent"
       ],
       "outboundTag": "block"
+    },
+    {
+      "type": "field",
+      "network": "udp,tcp",
+      "outboundTag": "def"
     }
   ]
 }

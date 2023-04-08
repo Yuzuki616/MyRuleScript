@@ -105,6 +105,11 @@
         "geosite:hulu"
       ]
     },
+    "Hulu": {
+      "Domain": [
+        "geosite:hulu"
+      ]
+    },
     "Netflix": {
       "Domain": [
         "geosite:netflix"
@@ -140,6 +145,45 @@
     "music.jp": {
       "Domain": [
         "domain:music-book.jp"
+      ]
+    },
+    "Now E": {
+      "Domain": [
+        "domain:nowe.com",
+        "domain:nowestatic.com"
+      ]
+    },
+    "Amazon Prime Video": {
+      "Domain":[
+        "domain:cloudfront.net",
+        "domain:domain:aiv-cdn.net",
+        "domain:aiv-delivery.net",
+        "domain:amazonprimevideo.cn",
+        "domain:amazonprimevideo.com.cn",
+        "domain:amazonprimevideos.com",
+        "domain:amazonvideo.cc",
+        "domain:amazonvideo.com",
+        "domain:atv-ps.amazon.com",
+        "domain:avodmp4s3ww-a.akamaihd.net",
+        "domain:fls-na.amazon.com",
+        "domain:llnwd.net",
+        "domain:media-amazon.com",
+        "domain:prime-video.com",
+        "domain:primevideo.cc",
+        "domain:primevideo.com",
+        "domain:primevideo.info",
+        "domain:primevideo.org",
+        "domain:primevideo.tv"
+      ]
+    },
+    "Disney+": {
+      "Domain": [
+        "geosite:disney"
+      ]
+    },
+    "J:COM On Demand": {
+      "Domain": [
+        "domain:id.zaq.ne.jp"
       ]
     }
   }
