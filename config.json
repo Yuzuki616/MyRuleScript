@@ -184,13 +184,13 @@
     "J:COM On Demand": {
       "Domain": [
         "domain:id.zaq.ne.jp"
-      ],
-      "ChatGPT": {
-        "Domain": [
-          "openai.com",
-          "ai.com"
-        ]
-      }
+      ]
+    },
+    "ChatGPT": {
+      "Domain": [
+        "domain:openai.com",
+        "domain:ai.com"
+      ]
     }
   }
 }
