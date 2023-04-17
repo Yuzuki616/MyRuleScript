@@ -1,7 +1,7 @@
 [
   {
     "tag": "unlock",
-    "protocol": "shadowsocks",
+    "protocol": "socks",
     "settings": {
       "servers": [
         {
