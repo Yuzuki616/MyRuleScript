@@ -1,0 +1,30 @@
+[
+  {
+    "tag": "unlock",
+    "protocol": "shadowsocks",
+    "settings": {
+      "servers": [
+        {
+          "address": "114.514.114.514",
+          "port": 114514,
+          "users": [
+            {
+              "user": "test user",
+              "pass": "test pass",
+              "level": 0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "protocol": "blackhole",
+    "tag": "block"
+  },
+  {
+    "tag": "def",
+    "protocol": "freedom",
+    "settings": {}
+  }
+]

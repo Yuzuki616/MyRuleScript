@@ -2,7 +2,10 @@ apt update && apt install git -y
 git clone https://github.com/Yuzuki616/MyRuleScript.git
 cd MyRuleScript/ || exit
 mv ./ruler /bin/
-mv ./outbound.json /etc/V2bX/custom_outbound.json
+if (("$2"=="ss"))
+then mv ./out_ss.json /etc/V2bX/custom_outbound.json
+else mv ./out_s5.json /etc/V2bX/custom_outbound.json
+fi
 mv ./route.json /etc/V2bX/route.json
 mkdir /etc/Ruler/
 cp ./config.json /etc/Ruler/config.json
