@@ -188,6 +188,17 @@
         "domain:openai.com",
         "domain:ai.com"
       ]
+    },
+    "Bahamut Anime":{
+      "Domain": [
+        "domain:gamer.com.tw",
+        "domain:bahamut.com.tw",
+        "domain:hinet.net",
+        "domain:fbcdn.net",
+        "domain:gvt1.com",
+        "domain:digicert.com",
+        "domain:viblast.com"
+      ]
     }
   }
 }
